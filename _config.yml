@@ -1,13 +1,13 @@
 # Site
-name: "The Reformer"
-description: "Bound by the Scriptures, captive to the Word of God. <br /> <small>Wherefore be ye not unwise, but understanding what the will of the Lord is. <strong>-Eph 5:17</strong></small>"
-meta_description: "Bound by the Scriptures, captive to the Word of God."
+name: "The Advent Sentinel"
+description: "<small>Looking for and hasting unto the coming of the day of God. <strong>-2 Peter 3:12</strong></small>"
+meta_description: "Looking for and hasting unto the coming of the day of God."
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 baseurl:
 google_analytics: "UA-46278016-1"
-disqus: "demowebsite"
-mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
+disqus: "theadventsentinel"
+mailchimp-list: "https://wangonya.us7.list-manage.com/subscribe?u=fe6da3bf1c0d2d23821df6d63&id=04b08f59dd"
 
 # Authors
 authors:

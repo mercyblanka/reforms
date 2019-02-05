@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "What is Jekyll"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/11.jpg
+title: "The war on earth"
+categories: [The Great Controversy]
+image: assets/images/war-earth.jpeg
 featured: true
 hidden: true
 ---
