@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The war in heaven"
+title: "The War in Heaven"
 categories: [The Great Controversy]
 image: /assets/images/war-heaven.jpeg
 featured: true

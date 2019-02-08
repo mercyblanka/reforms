@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The war on earth"
+title: "The War on Earth"
 categories: [The Great Controversy]
 image: /assets/images/war-earth.jpeg
 featured: true
