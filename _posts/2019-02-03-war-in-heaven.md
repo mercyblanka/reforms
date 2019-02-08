@@ -4,6 +4,7 @@ title: "The war in heaven"
 categories: [The Great Controversy]
 image: assets/images/war-heaven.jpeg
 featured: true
+description: "An inside look on where the world's misery all begun"
 hidden: true
 ---
 
