@@ -267,6 +267,19 @@
       }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 
     <script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+    
+    <script> 
+ 	 var refTagger = {
+ 	 	 settings: { 
+ 	 	 	 bibleVersion: "KJV"   
+ 	 	 }  
+ 	 }; 
+ 	 (function(d, t) { 
+ 	 	 var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+ 	 	 g.src = '//api.reftagger.com/v2/RefTagger.js'; 
+ 	 	 s.parentNode.insertBefore(g, s); 
+ 	 }(document, 'script')); 
+ </script>
 
     <script
       id="dsq-count-scr"
