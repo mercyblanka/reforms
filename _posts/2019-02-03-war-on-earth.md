@@ -32,6 +32,10 @@ Satan continues the struggle for souls by spreading the lie that God's law need 
 
 > There is no peace, saith the LORD, unto the wicked. KJV — Isaiah 48:22
 
+> Great peace have they which love thy law: and nothing shall offend them. KJV — Psalm 119:165
+
+> O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea: KJV — Isaiah 48:18
+
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. KJV — Matthew 6:33
 
 On the other side, Satan leads professed Christians to beleive that the law was done away with at the cross. As we will see in future studies, grace does not cancel obedience.
