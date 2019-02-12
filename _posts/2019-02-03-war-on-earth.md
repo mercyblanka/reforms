@@ -28,7 +28,7 @@ Man would have a second chance. In order to enter the kingdom of heaven, man mus
 
 > This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them; And their sins and iniquities will I remember no more. KJV — Hebrews 10:16,17
 
-Satan continues the struggle for souls by spreading the lie that God's law need not be followed any more. On one side men are led to have a blatant disregard for God by indulging in worldly lusts. He seeks to have men beleive that all is well without God. But men will never know true peace and happiness apart from God.
+Satan continues the struggle for souls by spreading the lie that God's law need not be followed any more. On one side men are led to have a blatant disregard for God. He seeks to have men beleive that all is well without God. But we can never know true peace and happiness apart from God.
 
 > There is no peace, saith the LORD, unto the wicked. KJV — Isaiah 48:22
 
