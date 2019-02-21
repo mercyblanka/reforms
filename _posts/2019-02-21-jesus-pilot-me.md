@@ -41,7 +41,7 @@ Jesus rules the raging sea (_Ps 89:9_). He stills the storm to a whisper and hus
 > May I hear Thee say to me,<br>
 > "Fear not, I will pilot thee!"<br>
 
-We are always in danger of forgetting how the Lord has led us in past years and losing faith when we face difficulties. It is written that the Israelites _"remembered not the multitude of God's mercies; but provoked him at the sea, even at the Red sea"_. It should always be our prayer that God reminds us frequently that he is at the helm of the ship, to lead us safely home. This is why memory verses are so important. Like Jesus during the temptation in the wilderness (_Luke 4:1-13_), reciting scripture memory texts will help us overcome the wiles of the devil.
+We are always in danger of forgetting how the Lord has led us in past years and losing faith when we face difficulties. It is written that the Israelites _"remembered not the multitude of God's mercies; but provoked him at the sea, even at the Red sea"_ (_Ps 106:7_). It should always be our prayer that God reminds us frequently that he is at the helm of the ship, to lead us safely home. This is why memory verses are so important. Like Jesus during the temptation in the wilderness (_Luke 4:1-13_), reciting scripture memory texts will help us overcome the wiles of the devil.
 
 Here are five simple memory texts you can memorise today to always remind you that God is in control:
 
