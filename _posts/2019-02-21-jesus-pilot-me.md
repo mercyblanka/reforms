@@ -53,7 +53,7 @@ Here are five simple memory texts you can memorise today to always remind you th
 
 > The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid? KJV — Psalm 27:1
 
-And my personal favourite:
+And my personal favorite:
 
 > In the world ye shall have tribulation: but be of good cheer; I have overcome the world. KJV — John 16:33
 
