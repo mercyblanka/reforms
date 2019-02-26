@@ -20,7 +20,7 @@ Below are 5 reasons why studying Bible prophecy is important.
 
 _See also: Isaiah 44:6-8 and 48:3-7_
 
-Through the prophet Isaiah, God makes says time and again that He is the only one that can predict events before they happen and they actually do happen. He does this to prove His power, _"lest thou shouldest say, Mine idol hath done them" Is 48:5_. An honest consideration of the many prophecies that God spoke sometimes thousands of years before they were fulfilled exactly as He said they would (_sometimes accurate to the very day: see Exo 12:41,51_) should convince any doubter of the inspiration of The Bible as the word of God.
+Through the prophet Isaiah, God says time and again that He is the only one that can predict events before they happen and they actually do happen. He does this to prove His power, _"lest thou shouldest say, Mine idol hath done them" Is 48:5_. An honest consideration of the many prophecies that God spoke sometimes thousands of years before they were fulfilled exactly as He said they would (_sometimes accurate to the very day: see Exo 12:41,51_) should convince any doubter of the inspiration of The Bible as the word of God.
 
 ### 2. It increases our faith in Jesus
 
