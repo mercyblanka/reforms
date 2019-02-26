@@ -19,7 +19,7 @@ _Jesus, Savior, Pilot Me_ is a wonderful hymn to inspire faith in Jesus Christ a
 > Chart and compass come from Thee:<br>
 > Jesus, Savior, pilot me!<br>
 
-This world is not our home. As we journey through it to the promised land, like the disciples, many of us lose faith whenever things begin to go wrong in our lifes. Storms shake our ship and we are quick to ask, _"Master, carest thou not that we perish?" KJV — Mark 4:38_. The parable of Jesus calming the sea was written for our learnig (_Rom 15:4, 1 Cor 10:11_) and though it, we can take heart in knowing that all it takes is for Jesus to say the word, and there will be great calm (_Mark 4:39_).
+This world is not our home. As we journey through it to the promised land, like the disciples, many of us lose faith whenever things begin to go wrong in our lifes. Storms shake our ship and we are quick to ask, _"Master, carest thou not that we perish?" KJV — Mark 4:38_. The parable of Jesus calming the sea was written for our learnig (_Rom 15:4, 1 Cor 10:11_) and through it, we can take heart in knowing that all it takes is for Jesus to say the word, and there will be great calm (_Mark 4:39_).
 
 ### Verse 2
 
