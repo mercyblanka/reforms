@@ -32,7 +32,7 @@ As God proves His power by predicting events and they do happen, we are led to h
 
 > The secret things belong unto the LORD our God: but those things which are revealed belong unto us and to our children for ever, **that we may do all the words of this law**. KJV — Deuteronomy 29:29
 
-As our faith in Him grows, we are led to obey God's every word. Noah believed the prophecy that a flood was coming and by faith obeyed God's command to build an ark (_Heb 11:7_). Abraham believed the prophecy that God would make of him a great nation and by faith obeyed God's command to leave his country, _"and he went out, not knowing whither he went." Heb 11:8_. We can see then that contrary to popular belief, faith does not free us from obedience to God's commands. Satan then would give people excuses to not study prophecy because he knows that as people's eyes are opened by prophetic light, they will be led to have faith which leads to obedience.
+As our faith in Him grows, we are led to obey God's every word. Noah believed the prophecy that a flood was coming and by faith obeyed God's command to build an ark (_Heb 11:7_). Abraham believed the prophecy that God would make of him a great nation and by faith obeyed God's command to leave his country, _"and he went out, not knowing whither he went." Heb 11:8_. We can see then that contrary to popular belief, faith does not free us from obedience to God's commands. Satan gives people excuses to not study prophecy because he knows that as people's eyes are opened by prophetic light, they will be led to have faith which leads to obedience.
 
 ### 4. It acts as a light in the darkness
 
