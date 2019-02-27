@@ -10,14 +10,14 @@ mailchimp-list: "https://wangonya.us7.list-manage.com/subscribe?u=fe6da3bf1c0d2d
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  ruth:
+    name: Ruth Mwende
+    display_name: Ruth Mwende
+    gravatar: 1521fa2ac82530cf5d16e6a9dd1c7bb9
+    # email: wowthemesnet@gmail.com
+    web: https://reallifedevotionals.wordpress.com/
+    # twitter: https://twitter.com/wowthemesnet
+    description: "With all that the world experiences, it is not in vain. Through God's eyes, you can see everything from a different perspective of His Love towards fallen men and our need to be connected to the fountain of living waters - I bring that to us by God's grace."
 
 # Plugins
 plugins:

@@ -21,19 +21,6 @@ post_class: post-template
         
 		<div class="col-md-9 flex-first flex-md-unordered">
 			<div class="mainheading">
-
-                <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row post-top-meta">
-					<div class="col-md-2">
-						<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-					</div>
-					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-						<span class="author-description">{{ author.description }}</span>						
-					</div>
-				</div>				
-                {% endif %}
                 
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
@@ -59,6 +46,23 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
+
+			<!-- Author Box -->
+			{% if page.author %}
+			<div class="row post-top-meta">
+				<div class="col-md-2">
+					<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+						alt="{{ author.display_name }}">
+				</div>
+				<div class="col-md-10">
+					<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
+					{% if author.twitter %}
+					<a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+					{% endif %}
+					<span class="author-description">{{ author.description }}</span>
+				</div>
+			</div>
+			{% endif %}
             
 			<!-- Post Categories -->
 			<div class="after-post-tags">
