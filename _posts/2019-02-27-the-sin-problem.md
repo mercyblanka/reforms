@@ -2,7 +2,7 @@
 layout: post
 title: "The Sin Problem"
 categories: [Devotional]
-image: /assets/images/prophecy.jpg
+image: /assets/images/sin-prob.jpg
 description: "Do you sometimes want to do good but you find yourself just doing the very opposite of what you wanted?"
 author: ruth
 ---
