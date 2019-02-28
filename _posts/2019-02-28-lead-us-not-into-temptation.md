@@ -63,4 +63,6 @@ I want to live in contact with the living Christ, to know and believe the love G
 
 > No man is safe for a day or an hour without prayer. Especially should we entreat the Lord for wisdom to understand His word. Here are revealed the wiles of the tempter and the means by which he may be successfully resisted. Satan is an expert in quoting Scripture, placing his own interpretation upon passages, by which he hopes to cause us to stumble. We should study the Bible with humility of heart, never losing sight of our dependence upon God. While we must constantly guard against the devices of Satan, we should pray in faith continually: “Lead us not into temptation.” <small> The Great Controversy by Ellen White, pg.530 par.2 </small>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V8IpwD2Ugds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <span class="post-date"><small class="post-date"> <a target="_blank" href="https://www.npr.org/sections/thetwo-way/2017/12/08/569385769/pope-francis-suggests-changing-the-words-to-lord-s-prayer"><sup>\*</sup> Pope Francis Suggests Changing The Words To The 'Lord's Prayer'</a> </small></span>
