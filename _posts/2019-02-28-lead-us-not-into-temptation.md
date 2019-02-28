@@ -30,7 +30,7 @@ For one to ask God not to bring them into temptation is proof that they must hav
 
 Lead us not into temptation is in itself a promise we are to claim. We commit ourselves to God. If we choose to do so, we have the assurance in _1 Corinthians 10:13 "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it."_. We will consider this passage again as we examine the second phrase.
 
-_**"And lead us not into temptation"**_, does God tempt people? If not, why ask Him not to lead us not to temptation? Or could it be that the text is wrong in its translation as suggested by some, perhaps the most famous by Pope Francis <sup>\*</sup>, who took issue with this phrase? How readest thou this part?
+_**"And lead us not into temptation"**_, does God tempt people? If not, why ask Him not to lead us into temptation? Or could it be that the text is wrong in its translation as suggested by some, perhaps the most famous by Pope Francis <sup>\*</sup>, who took issue with this phrase? How readest thou this part?
 
 In _James 1:13_, we read, _"Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:"_. The next verse shows what tempts us, _"But every man is tempted, when he is drawn away of his own lust, and enticed."_. Considering those two verses, how then do we resolve passages such as _Genesis 22:1_ and _Matthew 4:1_?
 
@@ -57,7 +57,7 @@ For one to confess _"I need thee every hour"_, they must have seen their helples
 
 I want you to know that the only safeguard against evil is the indwelling of Christ in the heart through faith in His righteousness. We need Him every hour especially because the everlasting gospel commands us to fear God and to worship Him, giving glory to him for the hour of his judgment is come (_Rev 14:6,7_).
 
-For Christ to stay nearby we ought to first draw near to Him (_James 4:8_). As the Spirit glorifies Christ, our hearts are first softened and subdues, the temptations lose their power and the grace of Christ transforms the character. Christ will hold us firmly by a hand that will never let go.
+For Christ to stay nearby we ought to first draw near to Him (_James 4:8_). As the Spirit glorifies Christ, our hearts are first softened and subdued, the temptations lose their power and the grace of Christ transforms the character. Christ will hold us firmly by a hand that will never let go.
 
 I want to live in contact with the living Christ, to know and believe the love God has to me, daily surrendering to His will and hence claim the promise, _"lead us not into temptation"_. Will you?
 
