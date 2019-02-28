@@ -18,7 +18,7 @@ featured: true
 
 These words glimpsed in my mind as I came to understand what Christ meant in teaching His disciples to say, _"And lead us not into temptation"_ when praying. (_Matt 6:13_)
 
-Is it not incredible that Jesus did not leave us to guess on how we should pray? On the contrary, we have a model for prayer. Jesus said, _"After this manner therefore pray ye:" Matt 6:9_. The sermon on the mount was twice given by our Savior; first to the multitude in the Sermon on the Mount, and again to His disciples alone. (_Matt 6:9-13; Luke 11:2-4_).
+Is it not incredible that Jesus did not leave us to guess on how we should pray? On the contrary, we have a model for prayer. Jesus said, _"After this manner therefore pray ye:" Matt 6:9_. The Lord's prayer was twice given by our Savior; first to the multitude in the Sermon on the Mount, and again to His disciples alone. (_Matt 6:9-13; Luke 11:2-4_).
 
 As we get to see what is meant by the words _"lead us not into temptation"_, it is important to note that Christ taught the disciples **"to say"** when they pray (_Luke 11:2_). Many of us are fond of praying silently when in our closets instead of exercising what our Saviour taught us. Christ was praying aloud when the disciples found Him absorbed in communion with God. Praying aloud helps to keep our minds from wandering when we pray and also helps us realize that we do pray to a real and living God thereby building our relationship with Him in prayer.
 
