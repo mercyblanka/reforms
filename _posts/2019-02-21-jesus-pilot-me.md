@@ -4,6 +4,7 @@ title: "Jesus, Savior, Pilot Me"
 categories: [Music]
 image: /assets/images/sea.jpg
 description: "Jesus, Savior, Pilot Me - A Hymn By Edward Hopper - is a wonderful hymn to inspire faith in Jesus Christ as He leads us through this storm tossed sea of life."
+author: wangonya
 ---
 
 > God is our refuge and strength, a very present help in trouble. KJV — Psalm 46:1

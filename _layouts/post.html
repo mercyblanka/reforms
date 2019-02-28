@@ -51,11 +51,20 @@ post_class: post-template
 			{% if page.author %}
 			<div class="row post-top-meta">
 				<div class="col-md-2">
+					{% if author.gravatar %}
 					<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
 						alt="{{ author.display_name }}">
+					{% else %}
+					<img class="author-thumb" src="{{ author.dp }}"
+						alt="{{ author.display_name }}">						
+					{% endif %}
 				</div>
 				<div class="col-md-10">
-					<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
+					{% if author.web %}
+					<a target="_blank" class="link-dark" href="{{ author.web }}"><p>{{ author.display_name }}</p></a>
+					{% else %}
+					<p class="link-dark">{{ author.display_name }}</p>
+					{% endif %}
 					{% if author.twitter %}
 					<a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
 					{% endif %}

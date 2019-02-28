@@ -18,6 +18,16 @@ authors:
     web: https://reallifedevotionals.wordpress.com/
     # twitter: https://twitter.com/wowthemesnet
     description: "With all that the world experiences, it is not in vain. Through God's eyes, you can see everything from a different perspective of His Love towards fallen men and our need to be connected to the fountain of living waters - I bring that to us by God's grace."
+  wangonya:
+    name: Kinyanjui Wangonya
+    display_name: Kinyanjui Wangonya
+    gravatar: c79a61e9160d9cdac2932342d2210846
+    description: "There is nothing that the great deceiver fears so much as that we shall become acquainted with his devices. <small> The Great Controversy by Ellen White, pg.516 par.3 </small>"
+  alonzo:
+    name: Alonzo Jones
+    display_name: Alonzo Jones
+    dp: "/assets/images/alonzo.jpg"
+    description: "Higher than the highest human thought can reach is God's ideal for His children. Godliness—godlikeness—is the goal to be reached. <small> Education by Ellen White, pg.18 par.4 </small>"
 
 # Plugins
 plugins:

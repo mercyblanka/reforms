@@ -3,9 +3,8 @@ layout: post
 title: "The War on Earth"
 categories: [The Great Controversy]
 image: /assets/images/war-earth.jpeg
-featured: true
-hidden: true
 description: "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. KJV — Ephesians 6:12"
+author: wangonya
 ---
 
 > And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him. KJV — Revelation 12:9

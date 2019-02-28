@@ -3,9 +3,8 @@ layout: post
 title: "The War in Heaven"
 categories: [The Great Controversy]
 image: /assets/images/war-heaven.jpeg
-featured: true
 description: "An inside look on where the world's misery all begun"
-hidden: true
+author: wangonya
 ---
 
 > And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels, KJV — Revelation 12:7

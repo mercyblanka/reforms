@@ -4,6 +4,7 @@ title: "Is it Important to Study Bible Prophecy?"
 categories: [Prophecy]
 image: /assets/images/prophecy.jpg
 description: "5 Reasons Why Studying Bible Prophecy is Important"
+author: wangonya
 ---
 
 > Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper. KJV — 2Chronicles 20:20

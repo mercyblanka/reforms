@@ -5,9 +5,13 @@ categories: [Devotional]
 image: /assets/images/sin-prob.jpg
 description: "Do you sometimes want to do good but you find yourself just doing the very opposite of what you wanted?"
 author: ruth
+hidden: true
+featured: true
 ---
 
-Do you sometimes want to do good but you find yourself just doing the very opposite of what you wanted? Do you ever struggle with addictions, self-pity and worthlessness? Sometimes feel that Heaven is for the few and you are not among them? Do you often feel discouraged, disconnected from the so-called saints and you feel home is too far for you? 😭
+Do you sometimes want to do good but you find yourself just doing the very opposite of what you wanted?
+
+Do you ever struggle with addictions, self-pity and worthlessness? Sometimes feel that Heaven is for the few and you are not among them? Do you often feel discouraged, disconnected from the so-called saints and you feel home is too far for you? 😭
 
 Fear not, nor be dismayed, for I am the Lord (_Is 41:10_). I will purge you with hyssop that ye may be clean (_Ps 51:7_). I will cleanse you from all unrighteousness (_1 John 1:9_). I will hold thy hands and hide you in the cleft of the rock (_Exo 33:22_). Yea, though thou walkest through the valley of the shadow of death, thou shalt fear no evil for I am with thee (_Ps 23:4_). 😇
 
