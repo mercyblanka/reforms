@@ -8,7 +8,7 @@
         target="_blank"
         href="https://twitter.com/intent/tweet?text={{ page.title }} : {{
           page.description
-        }}&url={{ page.url | absolute_url }}"
+        }}&url=https://theadventsentinel.com/{{ page.url | absolute_url }}"
         onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"
       >
         <i class="fab fa-twitter"></i>
@@ -18,7 +18,9 @@
     <li class="ml-1 mr-1">
       <a
         target="_blank"
-        href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}"
+        href="https://facebook.com/sharer.php?u=https://theadventsentinel.com/{{
+          page.url | absolute_url
+        }}"
         onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;"
       >
         <i class="fab fa-facebook-f"></i>
@@ -26,7 +28,11 @@
     </li>
 
     <li class="ml-1 mr-1">
-      <a href="whatsapp://send?text={{ page.url | absolute_url }}">
+      <a
+        href="whatsapp://send?text=https://theadventsentinel.com/{{
+          page.url | absolute_url
+        }}"
+      >
         <i class="fab fa-whatsapp"></i>
       </a>
     </li>
