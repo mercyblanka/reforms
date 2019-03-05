@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The War in Heaven"
-categories: [The Great Controversy]
+categories: [Prophecy]
 image: /assets/images/war-heaven.jpeg
 description: "An inside look on where the world's misery all begun"
 author: wangonya
