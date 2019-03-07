@@ -28,6 +28,10 @@ authors:
     display_name: Alonzo Jones
     dp: "/assets/images/alonzo.jpg"
     description: "Higher than the highest human thought can reach is God's ideal for His children. Godliness—godlikeness—is the goal to be reached. <small> Education by Ellen White, pg.18 par.4 </small>"
+  lucky:
+    name: Lucky Omondi
+    display_name: Lucky Omondi
+    dp: "/assets/images/def.jpeg"
 
 # Plugins
 plugins:
