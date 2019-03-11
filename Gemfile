@@ -16,4 +16,6 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'jekyll-paginate'
     gem 'jekyll-time-to-read'
+    gem 'jekyll-lazy-load-image', require: 'jekyll-lazy-load-image/auto-execution'
+    gem 'jekyll-pwa-plugin'
 end

@@ -46,4 +46,4 @@ Will you let this truth penetrate your heart?
 
 Listen to the song 'Til the Storm Passes By.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0JQX25fnDGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/0JQX25fnDGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="lazyload"></iframe>

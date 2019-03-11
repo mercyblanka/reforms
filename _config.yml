@@ -2,8 +2,8 @@
 name: "The Advent Sentinel"
 description: "<small>Looking for and hasting unto the coming of the day of God.</small>"
 meta_description: "Looking for and hasting unto the coming of the day of God."
-logo: "assets/images/logo.png"
-favicon: "assets/images/logo.png"
+logo: "assets/images/logo512.png"
+favicon: "assets/images/logo128.png"
 baseurl:
 google_analytics: "UA-134169530-1"
 mailchimp-list: "https://wangonya.us7.list-manage.com/subscribe?u=fe6da3bf1c0d2d23821df6d63&id=04b08f59dd"
@@ -55,3 +55,24 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+
+# pwa
+pwa:
+  sw_src_filepath: service-worker.js # Optional
+  sw_dest_filename: service-worker.js # Optional
+  dest_js_directory: assets/js # Required
+  precache_recent_posts_num: 10 # Optional
+  precache_glob_directory: / # Optional
+  precache_glob_patterns: # Optional
+    - "assets/**/*.{js,css,eot,svg,ttf,woff}"
+    - index.html
+  precache_glob_ignores: # Optional
+    - sw-register.js
+    - "fonts/**/*"
+
+#lazyload
+lazy_load_image:
+  src_attr_name: data-src # [required] You need to specify the attributes to be saved for lazy loading
+  preload_image: assets/images/logo512.png # [optional] you can add a data uri or loading image as fallback src
+  class_attr_values: # [optional] if you want to add custom class value, please add values
+    - lazyload

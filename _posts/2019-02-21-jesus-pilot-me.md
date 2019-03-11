@@ -58,4 +58,4 @@ And my personal favorite:
 
 > In the world ye shall have tribulation: but be of good cheer; I have overcome the world. KJV — John 16:33
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xgtz3V2IGdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/xgtz3V2IGdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="lazyload"></iframe>
