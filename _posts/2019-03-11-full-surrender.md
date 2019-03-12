@@ -5,6 +5,8 @@ categories: [Devotional]
 image: /assets/images/surr.jpg
 description: "And ye shall seek me, and find me, when ye shall search for me with all your heart. KJV — Jeremiah 29:13"
 author: hellen
+hidden: true
+featured: true
 ---
 
 > And ye shall seek me, and find me, when ye shall search for me with all your heart. KJV — Jeremiah 29:13

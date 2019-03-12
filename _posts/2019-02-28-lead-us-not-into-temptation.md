@@ -5,8 +5,6 @@ categories: [Devotional, Prayer]
 image: /assets/images/pray.jpg
 description: "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen. KJV — Matthew 6:13"
 author: alonzo
-hidden: true
-featured: true
 ---
 
 > I need thee every hour,<br>

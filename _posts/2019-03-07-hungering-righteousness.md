@@ -5,6 +5,8 @@ categories: [Devotional]
 image: /assets/images/hunger.jpg
 description: "Blessed are they which do hunger and thirst after righteousness: for they shall be filled. KJV — Matthew 5:6"
 author: lucky
+hidden: true
+featured: true
 ---
 
 > Blessed are they which do hunger and thirst after righteousness: for they shall be filled. KJV — Matthew 5:6

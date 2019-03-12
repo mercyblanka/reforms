@@ -5,8 +5,6 @@ categories: [Devotional]
 image: /assets/images/sin-prob.jpg
 description: "Do you sometimes want to do good but you find yourself just doing the very opposite of what you wanted?"
 author: ruth
-hidden: true
-featured: true
 ---
 
 Do you sometimes want to do good but you find yourself just doing the very opposite of what you wanted?
