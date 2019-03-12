@@ -33,6 +33,11 @@ authors:
     display_name: Lucky Omondi
     dp: "/assets/images/def.jpeg"
     description: "The warfare against self is the greatest battle that was ever fought. The yielding of self, surrendering all to the will of God, requires a struggle; but the soul must submit to God before it can be renewed in holiness. <small> Steps to Christ by Ellen White, pg.43 par.3 </small>"
+  hellen:
+    name: Hellen Kerubo
+    display_name: Hellen Kerubo
+    dp: "/assets/images/hellen.jpeg"
+    description: "There is an eloquence far more powerful than the eloquence of words in the quiet, consistent life of a pure, true Christian. What a man is has more influence than what he says."
 
 # Plugins
 plugins:
